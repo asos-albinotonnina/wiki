@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2535],{45641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Mischianti.org - Un blog pieno di sorprese","permalink":"/en/blog/mischianti"}]}')}}]);
